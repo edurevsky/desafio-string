@@ -1,7 +1,5 @@
 # desafio-string
 
-![](DesafioString/img/desafiostring.png)
-
 Seu sistema irá fazer uma consulta para validar CPF, passando como único parâmetro na URL o número do CPF de um determinado cliente. A URL ficará desse jeito:
 
 https://www.bytebank.com.br/valida?cpf=123.456.789-10
